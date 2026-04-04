@@ -12,5 +12,5 @@
   <img src="https://img.shields.io/badge/MongoDB-Database-4EA94B?style=for-the-badge&logo=mongodb">
   <img src="https://img.shields.io/badge/Docker-Supported-2496ED?style=for-the-badge&logo=docker">
   <img src="https://img.shields.io/badge/Serverless-Vercel%20%7C%20Cloudflare-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-BSD--2--Clause-orange?style=for-the-badge">
 </p>
